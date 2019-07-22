@@ -1,0 +1,12 @@
+c:\users\admin\source\repos\Crawly\Crawly\bin\Debug\Crawly.exe
+c:\users\admin\source\repos\Crawly\Crawly\bin\Debug\Crawly.pdb
+c:\users\admin\source\repos\Crawly\Crawly\bin\Debug\Crawly.xml
+c:\users\admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.frmMain.resources
+c:\users\admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.Resources.resources
+c:\users\admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.vbproj.GenerateResource.cache
+c:\users\admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.vbproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.exe
+c:\users\admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.xml
+c:\users\admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.pdb
+C:\Users\Admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.frmCampaign.resources
+C:\Users\Admin\source\repos\Crawly\Crawly\obj\Debug\Crawly.vbprojAssemblyReference.cache

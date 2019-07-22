@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Crawly", "Crawly\Crawly.vbproj", "{AC9A2803-A0E9-4A2B-A4D4-74C067AF77D1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Advertisy", "Advertisy\Advertisy.vbproj", "{D65D6B70-63F8-4616-BB6C-00E87341DACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9A2803-A0E9-4A2B-A4D4-74C067AF77D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9A2803-A0E9-4A2B-A4D4-74C067AF77D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9A2803-A0E9-4A2B-A4D4-74C067AF77D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9A2803-A0E9-4A2B-A4D4-74C067AF77D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65D6B70-63F8-4616-BB6C-00E87341DACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65D6B70-63F8-4616-BB6C-00E87341DACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65D6B70-63F8-4616-BB6C-00E87341DACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65D6B70-63F8-4616-BB6C-00E87341DACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B47AA03-8054-455F-8700-9D02D2BEC4F2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Crawly\Advertisy\bin\Debug\Advertisy.exe
+C:\Users\Admin\source\repos\Crawly\Advertisy\bin\Debug\Advertisy.pdb
+C:\Users\Admin\source\repos\Crawly\Advertisy\bin\Debug\Advertisy.xml
+C:\Users\Admin\source\repos\Crawly\Advertisy\obj\Debug\Advertisy.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Crawly\Advertisy\obj\Debug\Advertisy.frmMain.resources
+C:\Users\Admin\source\repos\Crawly\Advertisy\obj\Debug\Advertisy.Resources.resources
+C:\Users\Admin\source\repos\Crawly\Advertisy\obj\Debug\Advertisy.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Crawly\Advertisy\obj\Debug\Advertisy.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Crawly\Advertisy\obj\Debug\Advertisy.exe
+C:\Users\Admin\source\repos\Crawly\Advertisy\obj\Debug\Advertisy.xml
+C:\Users\Admin\source\repos\Crawly\Advertisy\obj\Debug\Advertisy.pdb
