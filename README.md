@@ -7,3 +7,5 @@ After that all found sites will be searched for email adresses.
 This tool is just for educational purposes only.
 License: MIT
 
+![crawly-screenshotv01](https://i.imgur.com/ufAJCeL.png)
+
